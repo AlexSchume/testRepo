@@ -35,6 +35,7 @@ namespace AGNES
                 chart1.Series[names[i]].Points.AddXY(x[i], y[i]);
             }
             AGNESClass.Count();
+	    Console.WriteLine();
         }
     }
 }
