@@ -1,0 +1,9 @@
+E:\Документы\Projects\AGNES\AGNES\bin\Debug\AGNES.exe.config
+E:\Документы\Projects\AGNES\AGNES\bin\Debug\AGNES.exe
+E:\Документы\Projects\AGNES\AGNES\bin\Debug\AGNES.pdb
+E:\Документы\Projects\AGNES\AGNES\obj\Debug\AGNES.csprojResolveAssemblyReference.cache
+E:\Документы\Projects\AGNES\AGNES\obj\Debug\AGNES.Form1.resources
+E:\Документы\Projects\AGNES\AGNES\obj\Debug\AGNES.Properties.Resources.resources
+E:\Документы\Projects\AGNES\AGNES\obj\Debug\AGNES.csproj.GenerateResource.Cache
+E:\Документы\Projects\AGNES\AGNES\obj\Debug\AGNES.exe
+E:\Документы\Projects\AGNES\AGNES\obj\Debug\AGNES.pdb
